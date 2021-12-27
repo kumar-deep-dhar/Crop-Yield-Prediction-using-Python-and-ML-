@@ -11,3 +11,4 @@ Some of the libraries used are:-
 # The Gaphical User Interface looks like
 
 ![image](https://user-images.githubusercontent.com/68948695/147467384-5a758340-5bf3-4bbc-920b-563344cce172.png)
+here you have to enter all the fields and the estimated crop yield will be displayed.
